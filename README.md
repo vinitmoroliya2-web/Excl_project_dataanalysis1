@@ -31,7 +31,7 @@ Raw numerical attributes like age can clutter visual charts. To extract meaningf
 
 Age Bracketing:Segmented customers into three logical life stages using a Nested IF Statement:
 
-{Age Bracket Formula} = {IF}(L2 \le 30,"Adolescent", {IF}(L2 \le 54, {"Middle Age"}, {"Old"}))
+Age Bracket Formula = IF(L2 <= 30,"Adolescent", IF(L2 <= 54, "Middle Age", "Old"))
 
 
 Label Optimization: Cleaned and reorganized non-standard sorting values within the `Commute Distance` categories (such as correcting the placement of "More than 10 miles") to ensure accurate progressive formatting on chart axes.
