@@ -51,6 +51,9 @@ The final stage focused on user experience (UX) and dashboard interactivity:
 Visual Hygiene:** Removed standard Excel gridlines to establish a clean, corporate presentation canvas.
 Layout Alignment: Utilized Excel's Shape Format Align toolsets to guarantee uniform spacing and structural symmetry among charts.
 Cross-Connected Slicers:Deployed interactive Slicers for `Marital Status`, `Region`, and `Education`. By linking these slicers to control all underlying pivot tables simultaneously, the user can drill down into localized demographic segments on demand.
+<img width="822" height="483" alt="image" src="https://github.com/user-attachments/assets/bada1c8c-92a6-4a61-ba3c-288bacc7647c" />
+
+
 
 
 Key Business Insights
