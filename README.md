@@ -42,6 +42,8 @@ Using the cleaned working dataset, I constructed multiple Pivot Tables to isolat
 Income Trends:Evaluated the average income breakdown relative to gender and purchasing choices.
 Commute Distribution: Aggregated customer volume against commute distances to check if physical proximity to work scales with bike ownership.
 Demographic Volume:Counted total transactions across the engineered age brackets.
+<img width="1066" height="330" alt="image" src="https://github.com/user-attachments/assets/74e48e67-8bd9-45a7-a267-4360c74a05f0" />
+
 
 
 Phase 4: Dashboard Design & Interactive Filters
